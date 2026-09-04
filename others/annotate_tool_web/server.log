@@ -1,0 +1,65 @@
+::ffff:127.0.0.1 - - [02/Sep/2026 10:17:16] "GET /index.html HTTP/1.1" 200 -
+::1 - - [02/Sep/2026 10:18:49] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2026 10:18:49] code 404, message File not found
+::1 - - [02/Sep/2026 10:18:49] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Sep/2026 10:20:34] "GET / HTTP/1.1" 304 -
+::1 - - [02/Sep/2026 10:27:53] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2026 10:30:00] "GET / HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [02/Sep/2026 10:30:50] "GET /index.html HTTP/1.1" 200 -
+::1 - - [02/Sep/2026 10:31:29] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2026 10:31:29] code 404, message File not found
+::1 - - [02/Sep/2026 10:31:29] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Sep/2026 10:31:34] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2026 10:31:34] code 404, message File not found
+::1 - - [02/Sep/2026 10:31:34] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Sep/2026 10:31:34] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2026 10:31:34] code 404, message File not found
+::1 - - [02/Sep/2026 10:31:34] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Sep/2026 10:31:35] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2026 10:31:35] code 404, message File not found
+::1 - - [02/Sep/2026 10:31:35] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Sep/2026 10:31:35] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2026 10:31:35] code 404, message File not found
+::1 - - [02/Sep/2026 10:31:35] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Sep/2026 10:31:35] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2026 10:31:35] code 404, message File not found
+::1 - - [02/Sep/2026 10:31:35] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Sep/2026 10:31:35] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2026 10:31:35] code 404, message File not found
+::1 - - [02/Sep/2026 10:31:35] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Sep/2026 10:31:36] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2026 10:31:36] code 404, message File not found
+::1 - - [02/Sep/2026 10:31:36] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Sep/2026 10:31:36] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2026 10:31:36] code 404, message File not found
+::1 - - [02/Sep/2026 10:31:36] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Sep/2026 10:31:36] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2026 10:31:36] code 404, message File not found
+::1 - - [02/Sep/2026 10:31:36] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Sep/2026 10:31:36] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2026 10:31:36] code 404, message File not found
+::1 - - [02/Sep/2026 10:31:36] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Sep/2026 10:31:36] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2026 10:31:36] code 404, message File not found
+::1 - - [02/Sep/2026 10:31:36] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Sep/2026 10:31:36] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2026 10:31:36] code 404, message File not found
+::1 - - [02/Sep/2026 10:31:36] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Sep/2026 10:31:37] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2026 10:31:37] code 404, message File not found
+::1 - - [02/Sep/2026 10:31:37] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Sep/2026 10:31:37] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2026 10:31:37] code 404, message File not found
+::1 - - [02/Sep/2026 10:31:37] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Sep/2026 10:31:37] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2026 10:31:37] code 404, message File not found
+::1 - - [02/Sep/2026 10:31:37] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Sep/2026 10:31:37] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2026 10:31:37] code 404, message File not found
+::1 - - [02/Sep/2026 10:31:37] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Sep/2026 10:31:37] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2026 10:31:37] code 404, message File not found
+::1 - - [02/Sep/2026 10:31:37] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Sep/2026 10:31:37] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2026 10:31:37] code 404, message File not found
+::1 - - [02/Sep/2026 10:31:37] "GET /favicon.ico HTTP/1.1" 404 -

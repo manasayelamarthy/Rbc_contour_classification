@@ -1,0 +1,69 @@
+# ── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.ipynb_checkpoints/
+
+# ── Large binary / data files (images, weights, archives) ─────────────────
+# This project works with thousands of microscopy tile images, trained model
+# weights, and generated parquet deliverables -- none of these belong in git
+# (git isn't built for large binaries, and GitHub has hard file-size limits).
+# Only the actual code (scripts, notebooks, configs) should be tracked.
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+*.pt
+*.pth
+*.onnx
+*.rar
+*.zip
+*.7z
+*.npy
+*.npz
+*.parquet
+*.pdf
+*.mp4
+*.avi
+
+# ── Known large data/output/model-run folders ──────────────────────────────
+others/7/
+others/extra/
+yolo11-n/rbc_yolo_old/
+yolo11-n/yolo_dataset/
+yolo11-s/rbc_yolo/
+yolo11-s/yolo_dataset_expanded/
+yolo11-s/rbc_query_deliverable/
+yolo11-s/rbc_query_deliverable_full/
+yolo11-s/parquet_output/
+yolo11-s/rbc_contour_output_*/
+yolo11-s/rbc_yolo11s_expanded_overlays/
+yolo11-s/wbc_*/
+yolo11-s/train_overlays_for_wbc_flagging/
+yolo11-s/removed_wbc_images/
+yolo11-s/fixed_pipeline_test/
+yolo11-s/local_pipeline_test/
+yolo11-s/rbc_contour_test_output/
+yolo11-seg/yolo_seg_dataset/
+yolo11-seg/runs_seg_abandoned/
+yolo11-seg/rbc_seg_squared_contours/
+others/box_label_verify/
+others/data/
+others/dp_8k_query_hybrid_adaptive_preview/
+others/runs_valruns/
+others/test_folder/
+traditional-cv/rbc_reference_dataset/
+traditional-cv/rbc_contour_output_x23_24/
+traditional-cv/pallor_test_crops/
+
+# ── OS / editor cruft ───────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+
+# ── Claude Code session state (not project content) ────────────────────────
+.claude/
